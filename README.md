@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/nft-preview-card-component-zM5oh5xF8i)
 - Live Site URL: [Add live site URL here](https://ntf-preview-card-sigma.vercel.app/)
 
 ## My process
